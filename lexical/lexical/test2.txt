@@ -1,0 +1,11 @@
+PROGRAM TEST2;
+
+INTEGER -> int1,int2,int3;
+
+BEGIN
+
+int1 <= 12 + (11 +10) * 9;
+int2 <= 44 + ( ( 69 - 33) / 4 );
+int3 <= 52 - 88;
+
+END.

@@ -1,0 +1,11 @@
+PROGRAM TEST1
+
+INTEGER -> A,B,C;
+
+BEGIN;
+
+A <= (A+B) * A;
+B <= (B+C) / B;
+C <= (C+A);
+
+END.

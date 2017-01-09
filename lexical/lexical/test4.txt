@@ -1,0 +1,7 @@
+PROGRAM myprog;
+INTEGER -> A,B;
+BEGIN
+	A<=1 - (3+2) + 3*4;
+	A<=1;
+	B<=A*5;
+END.

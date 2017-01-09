@@ -1,0 +1,13 @@
+PROGRAM TEST3;
+
+INTEGER > a,d,f;
+
+
+BEGIN
+
+
+f <= a*(d+f) / a ;
+d < a;
+a <= f/d/a ;
+
+END
